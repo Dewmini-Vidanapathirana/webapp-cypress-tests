@@ -2,6 +2,10 @@
 
 This repository contains end-to-end tests for the Persian Cat eShop application using Cypress. The tests cover various user scenarios to ensure the application's functionality and reliability.
 
+## Web Application URL
+
+- **Web App**: [Persian Cat eShop](https://app.ezuite.com/eShop/PersianCatSriLanka)
+
 ## Technologies Used
 
 - **Cypress**: A JavaScript-based end-to-end testing framework used for writing and running the tests.
